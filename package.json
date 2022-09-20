@@ -1,0 +1,20 @@
+{
+  "name": "microverselintershtml",
+  "version": "1.0.0",
+  "description": "# On future Branch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdimulhinYussuf3675/LintersHtmlCss.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdimulhinYussuf3675/LintersHtmlCss/issues"
+  },
+  "homepage": "https://github.com/AbdimulhinYussuf3675/LintersHtmlCss#readme"
+}
